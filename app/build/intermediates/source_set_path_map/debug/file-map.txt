@@ -1,0 +1,57 @@
+com.example.pw_assigement.app-lifecycle-runtime-release-0 C:\Users\10355\.gradle\caches\transforms-3\08eac316b29ce35c8d9ea33da7f7ea53\transformed\lifecycle-runtime-release\res
+com.example.pw_assigement.app-lifecycle-viewmodel-release-1 C:\Users\10355\.gradle\caches\transforms-3\19dd1f18972d5d6288d8a16dfb165673\transformed\lifecycle-viewmodel-release\res
+com.example.pw_assigement.app-activity-1.9.1-2 C:\Users\10355\.gradle\caches\transforms-3\1bb73b1842bbc3f2feadc5562dbb1eb9\transformed\activity-1.9.1\res
+com.example.pw_assigement.app-material3-1.0.0-3 C:\Users\10355\.gradle\caches\transforms-3\202c166a330ac5b7c373e7d479f663a4\transformed\material3-1.0.0\res
+com.example.pw_assigement.app-activity-ktx-1.9.1-4 C:\Users\10355\.gradle\caches\transforms-3\24ec3bb1a395d8453b1dac86dc7f3bfb\transformed\activity-ktx-1.9.1\res
+com.example.pw_assigement.app-ui-unit-release-5 C:\Users\10355\.gradle\caches\transforms-3\253011e80c5f5d0a3033cb7714532e9d\transformed\ui-unit-release\res
+com.example.pw_assigement.app-ui-text-release-6 C:\Users\10355\.gradle\caches\transforms-3\26dbd7f2a612164b07888a8f24fa6571\transformed\ui-text-release\res
+com.example.pw_assigement.app-annotation-experimental-1.4.0-7 C:\Users\10355\.gradle\caches\transforms-3\2d26eefc4717f2c7b5813bdc938ae0cd\transformed\annotation-experimental-1.4.0\res
+com.example.pw_assigement.app-material-ripple-release-8 C:\Users\10355\.gradle\caches\transforms-3\36d74356d4270e9215e0905f21c3ac4d\transformed\material-ripple-release\res
+com.example.pw_assigement.app-navigation-common-ktx-2.6.0-9 C:\Users\10355\.gradle\caches\transforms-3\38d4afdb3bc2533b324b2f09f05813c6\transformed\navigation-common-ktx-2.6.0\res
+com.example.pw_assigement.app-navigation-runtime-ktx-2.6.0-10 C:\Users\10355\.gradle\caches\transforms-3\43302720d211a0c34185db2b2df5f3bd\transformed\navigation-runtime-ktx-2.6.0\res
+com.example.pw_assigement.app-ui-graphics-release-11 C:\Users\10355\.gradle\caches\transforms-3\4a8060c45f521d2419289749516d9cbb\transformed\ui-graphics-release\res
+com.example.pw_assigement.app-ui-tooling-preview-release-12 C:\Users\10355\.gradle\caches\transforms-3\507d4e650886693b392454256d9e1dcc\transformed\ui-tooling-preview-release\res
+com.example.pw_assigement.app-ui-tooling-data-release-13 C:\Users\10355\.gradle\caches\transforms-3\5304c659fca654315f6b839557c66dc6\transformed\ui-tooling-data-release\res
+com.example.pw_assigement.app-tv-material-1.0.0-rc01-14 C:\Users\10355\.gradle\caches\transforms-3\5486fd2f77cd33e946e62b6c00603360\transformed\tv-material-1.0.0-rc01\res
+com.example.pw_assigement.app-startup-runtime-1.1.1-15 C:\Users\10355\.gradle\caches\transforms-3\5e51a206c5f312238c9120389bf142a1\transformed\startup-runtime-1.1.1\res
+com.example.pw_assigement.app-lifecycle-livedata-core-ktx-2.8.4-16 C:\Users\10355\.gradle\caches\transforms-3\5e69587cc5cef77b3b2c62a694f39b84\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.example.pw_assigement.app-activity-compose-1.9.1-17 C:\Users\10355\.gradle\caches\transforms-3\6205af6ee4be30c92062daeb94fa76d6\transformed\activity-compose-1.9.1\res
+com.example.pw_assigement.app-ui-test-manifest-1.6.8-18 C:\Users\10355\.gradle\caches\transforms-3\6d442323f6bb5b0dac4f2b4dcb9c9bf2\transformed\ui-test-manifest-1.6.8\res
+com.example.pw_assigement.app-ui-tooling-release-19 C:\Users\10355\.gradle\caches\transforms-3\736e8a2e4ae1f686c99040686319bfb1\transformed\ui-tooling-release\res
+com.example.pw_assigement.app-lifecycle-viewmodel-ktx-2.8.4-20 C:\Users\10355\.gradle\caches\transforms-3\7657d0f1960dabd1d02e3ba76cb43bdb\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.example.pw_assigement.app-ui-release-21 C:\Users\10355\.gradle\caches\transforms-3\7855dc7466355c9e89d150ef707510b7\transformed\ui-release\res
+com.example.pw_assigement.app-lifecycle-viewmodel-compose-release-22 C:\Users\10355\.gradle\caches\transforms-3\79cd878be7bbdecf76b8da2af5ef63ca\transformed\lifecycle-viewmodel-compose-release\res
+com.example.pw_assigement.app-animation-release-23 C:\Users\10355\.gradle\caches\transforms-3\82aa1133189b841c12bd10a78b462704\transformed\animation-release\res
+com.example.pw_assigement.app-navigation-runtime-2.6.0-24 C:\Users\10355\.gradle\caches\transforms-3\8441cbc2609b5414833eb0801cdc0ec4\transformed\navigation-runtime-2.6.0\res
+com.example.pw_assigement.app-foundation-layout-release-25 C:\Users\10355\.gradle\caches\transforms-3\8f04d6755fc72d27ec17dfb7ae2febde\transformed\foundation-layout-release\res
+com.example.pw_assigement.app-core-1.13.0-26 C:\Users\10355\.gradle\caches\transforms-3\928149836ff43aec854a380f7ab7dcce\transformed\core-1.13.0\res
+com.example.pw_assigement.app-lifecycle-livedata-core-2.8.4-27 C:\Users\10355\.gradle\caches\transforms-3\978af56ad007839991e1eee4c32593c4\transformed\lifecycle-livedata-core-2.8.4\res
+com.example.pw_assigement.app-lifecycle-viewmodel-savedstate-2.8.4-28 C:\Users\10355\.gradle\caches\transforms-3\9aa5a9adf630354b29b0d49fdb8eb804\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.example.pw_assigement.app-animation-core-release-29 C:\Users\10355\.gradle\caches\transforms-3\9c34427aae8d90d96353e995d607a429\transformed\animation-core-release\res
+com.example.pw_assigement.app-savedstate-1.2.1-30 C:\Users\10355\.gradle\caches\transforms-3\9c77e1d02bfd1661fce0cff6ea89c861\transformed\savedstate-1.2.1\res
+com.example.pw_assigement.app-lifecycle-runtime-ktx-release-31 C:\Users\10355\.gradle\caches\transforms-3\9ea91abafbee2434776a32339c0118d4\transformed\lifecycle-runtime-ktx-release\res
+com.example.pw_assigement.app-lifecycle-livedata-ktx-2.8.4-32 C:\Users\10355\.gradle\caches\transforms-3\a56703ecfbb4e0ac828360d0973cdbcb\transformed\lifecycle-livedata-ktx-2.8.4\res
+com.example.pw_assigement.app-material-release-33 C:\Users\10355\.gradle\caches\transforms-3\ac15afe9e791fb9bad3481adb1e51fae\transformed\material-release\res
+com.example.pw_assigement.app-runtime-saveable-release-34 C:\Users\10355\.gradle\caches\transforms-3\ad310bbc3974b5ff0d863708f65e0548\transformed\runtime-saveable-release\res
+com.example.pw_assigement.app-ui-geometry-release-35 C:\Users\10355\.gradle\caches\transforms-3\ae005387c74f8545706576c92f52be70\transformed\ui-geometry-release\res
+com.example.pw_assigement.app-emoji2-1.3.0-36 C:\Users\10355\.gradle\caches\transforms-3\ba60efb857ff216b0f4b99bd83aad0a6\transformed\emoji2-1.3.0\res
+com.example.pw_assigement.app-ui-util-release-37 C:\Users\10355\.gradle\caches\transforms-3\c6df7992b4e37c58eb42174b56b15ef6\transformed\ui-util-release\res
+com.example.pw_assigement.app-core-runtime-2.2.0-38 C:\Users\10355\.gradle\caches\transforms-3\c8c0ab2c01060619e83063dcbf9e67d3\transformed\core-runtime-2.2.0\res
+com.example.pw_assigement.app-runtime-livedata-1.6.8-39 C:\Users\10355\.gradle\caches\transforms-3\cc6fbec6f22c64a3cbce17d3124f17eb\transformed\runtime-livedata-1.6.8\res
+com.example.pw_assigement.app-foundation-release-40 C:\Users\10355\.gradle\caches\transforms-3\ce6ba7e1723d2878a1ec48af1b69f8f6\transformed\foundation-release\res
+com.example.pw_assigement.app-lifecycle-livedata-2.8.4-41 C:\Users\10355\.gradle\caches\transforms-3\d3a4db26271f94ecb8b39f37bd4522c2\transformed\lifecycle-livedata-2.8.4\res
+com.example.pw_assigement.app-customview-poolingcontainer-1.0.0-42 C:\Users\10355\.gradle\caches\transforms-3\de78ba0918738d9d3b5a71add10e5163\transformed\customview-poolingcontainer-1.0.0\res
+com.example.pw_assigement.app-core-ktx-1.13.0-43 C:\Users\10355\.gradle\caches\transforms-3\dead6204abbef2a2a94258dacc6b978b\transformed\core-ktx-1.13.0\res
+com.example.pw_assigement.app-savedstate-ktx-1.2.1-44 C:\Users\10355\.gradle\caches\transforms-3\e74e54e2bce7fcca323511d138ffe3d1\transformed\savedstate-ktx-1.2.1\res
+com.example.pw_assigement.app-lifecycle-process-2.8.4-45 C:\Users\10355\.gradle\caches\transforms-3\ed9f059ee4b25fc39c6f6ff5e0acf297\transformed\lifecycle-process-2.8.4\res
+com.example.pw_assigement.app-runtime-release-46 C:\Users\10355\.gradle\caches\transforms-3\f123155ec24d593b9281e042c111fd30\transformed\runtime-release\res
+com.example.pw_assigement.app-material-icons-core-release-47 C:\Users\10355\.gradle\caches\transforms-3\f14b4a8fc605747cb3d5863c74c52f47\transformed\material-icons-core-release\res
+com.example.pw_assigement.app-profileinstaller-1.3.1-48 C:\Users\10355\.gradle\caches\transforms-3\f437eaa9c8c9b02deaeec4159a3aeda7\transformed\profileinstaller-1.3.1\res
+com.example.pw_assigement.app-navigation-common-2.6.0-49 C:\Users\10355\.gradle\caches\transforms-3\f51e1765ef6b08236b538024ccb64eee\transformed\navigation-common-2.6.0\res
+com.example.pw_assigement.app-navigation-compose-2.6.0-50 C:\Users\10355\.gradle\caches\transforms-3\f6181b72ab66b234db81c59254ecd059\transformed\navigation-compose-2.6.0\res
+com.example.pw_assigement.app-resValues-51 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\build\generated\res\resValues\debug
+com.example.pw_assigement.app-packageDebugResources-52 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.pw_assigement.app-packageDebugResources-53 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.pw_assigement.app-merged_res-54 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\build\intermediates\merged_res\debug
+com.example.pw_assigement.app-debug-55 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\src\debug\res
+com.example.pw_assigement.app-main-56 C:\Users\10355\Adesh Projects\Education\PW_Assigement\app\src\main\res
